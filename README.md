@@ -1,2 +1,3 @@
 # first-automation-test
-automation test, creating an account in online shop
+creating an account in [online shop](http://automationpractice.com/index.php) for automation practices
+
